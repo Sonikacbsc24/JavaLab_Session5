@@ -9,7 +9,7 @@ This program highlights access protection, interface implementation, and polymor
 
 The main method creates and uses different loan objects, showing how interfaces enable code reuse and modularity.
 
-Perfect for understanding Java packages, interfaces, and real-world application structure.
+Good for understanding Java packages, interfaces, and real-world application structure.
 
 ## Program Output:
 
